@@ -1,7 +1,7 @@
 {
   "name": "grunt-image-pixel-changer",
   "description": "Crawl all image pixels and convert specified rgba value to another value.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/ssac/grunt-image-pixel-changer",
   "author": {
     "name": "ssac",
